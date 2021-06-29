@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swansb3
 - 👀 I’m interested in data analytics/data science using Python.
-- 🌱 I’m currently learning data science applications with Python as part of the M&S Data Fellowship programme. This has involved clustering, association analysis and building classification models.
+- 🌱 I’m currently learning data science applications with Python as part of the M&S Data Fellowship programme. This has involved clustering, association analysis and building classification models. Very interested in neural networks.
 - 📫 How to reach me: email 03bswanson@gmail.com
 
 <!---
